@@ -396,7 +396,8 @@ img{
 /*==================== ABOUT ====================*/
 .about__img{
     width: 200px;
-    border-radius: .5rem;
+    border-radius: 500.5rem;
+    outline:25px solid var(--first-color);
     justify-self: center;
     align-self: center;
 }
